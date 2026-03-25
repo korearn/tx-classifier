@@ -30,7 +30,7 @@ tx-classifier/
 
 ## Instalación
 ```bash
-git clone https://github.com/tu-usuario/tx-classifier
+git clone https://github.com/korearn/tx-classifier
 cd tx-classifier
 python -m venv .venv
 source .venv/bin/activate
